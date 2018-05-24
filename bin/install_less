@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 set -eo pipefail
 
-npm install -g node-less
+npm install -g less less-plugin-clean-css
