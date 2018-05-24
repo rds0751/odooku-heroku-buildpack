@@ -1,3 +1,5 @@
 odooku-odoo-addons
 odooku
 bob-builder==0.0.13
+node
+lessc
