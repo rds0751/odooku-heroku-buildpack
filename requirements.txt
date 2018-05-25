@@ -1,3 +1,3 @@
-odooku-odoo-addons
-odooku
+odooku-odoo-addons>=11.0.2,<12.0.0
+odooku>=11.0.6,<12.0.0
 bob-builder==0.0.13
