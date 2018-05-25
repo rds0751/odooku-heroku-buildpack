@@ -13,5 +13,3 @@ pushd node-v${NODEJS_VERSION}-linux-x64
 echo "-----> Building LESS ${LESS_VERSION}"
 PATH="$PATH:bin/" bin/npm --prefix=${OUT_PREFIX} install -g less@${LESS_VERSION}
 popd
-
-cp -a node-v${NODEJS_VERSION}-linux-x64/. ${OUT_PREFIX}
