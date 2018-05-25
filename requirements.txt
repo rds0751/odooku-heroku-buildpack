@@ -1,5 +1,5 @@
 odooku-odoo-addons
-odooku
+odooku==9.0.0
 bob-builder==0.0.13
 node
 lessc
